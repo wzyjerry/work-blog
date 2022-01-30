@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "4b76b4154399e300",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6ecc90561f13e55",
+        "type": "leaf",
+        "dimension": 52.58992805755396,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "k8s/安装k8s.md",
+            "mode": "source"
+          }
+        },
+        "group": "89c49373d14a0c47"
+      },
+      {
+        "id": "9f0a5a9d29181778",
+        "type": "leaf",
+        "dimension": 47.41007194244604,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "k8s/安装k8s.md",
+            "mode": "preview"
+          }
+        },
+        "group": "89c49373d14a0c47"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c35151d889c1f2a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3becb41ae1b5693e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "042e3b18c5154bbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6760278e3e89725b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8bb016d52b69c300",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c892bc6aba2869a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96a3b244e4bf2003",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "k8s/安装k8s.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "9f0a5a9d29181778",
+  "lastOpenFiles": [
+    "k8s/安装k8s.md",
+    "k8s/使用k8s.md",
+    "k8s/配置集群-全新机器.md",
+    "SUMMARY.md"
+  ]
+}
