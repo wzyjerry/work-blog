@@ -1,7 +1,5 @@
 # 修改vim
 
-
-
 ``` bash
 vim /etc/vimrc
 
