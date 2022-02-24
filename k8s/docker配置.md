@@ -1,6 +1,6 @@
 [修改默认路径](https://www.cnblogs.com/datasyman/p/7307085.html)
 
-``` bash
+```bash
 sudo systemctl stop docker
 sudo mkdir /etc/systemd/system/docker.service.d
 sudo touch /etc/systemd/system/docker.service.d/docker.conf
@@ -10,4 +10,3 @@ sudo touch /etc/systemd/system/docker.service.d/docker.conf
 ExecStart=
 ExecStart=/usr/bin/dockerd --graph="/data/docker" --storage-driver=devicemapper
 ```
-
